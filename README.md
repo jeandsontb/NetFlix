@@ -17,6 +17,7 @@
 NETFLIX - É uma plataforma de filmes e séries, esse projeto é um clone mais especificamente com intuito de aprendizado.
 
  - O projeto está na fase inicial com a page home finalizada na parte estética.
+ - Todo o projeto está consumindo a API themoviedb.org.
  - Ao desenvolver mais funcionalidades, será disponibilizado nesse local o que for sendo realizado
 
 Esse projeto foi desenvolvido usando as tecnologias mais atuais de mercado.
