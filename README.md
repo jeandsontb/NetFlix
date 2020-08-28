@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/flix.png" />
+    <img alt="NetFlix" title="#Project Interface NetFlix" src="https://raw.githubusercontent.com/jeandsontb/NetFlix/master/public/assets/flix.png" />
 </h1>
 
 <h4 align="center"> 
@@ -28,9 +28,9 @@ O layout foi realizado com base no site original da netflix
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/flix10.png" width="400px">
+  <img alt="NetFlix" title="#NetFlix" src="https://raw.githubusercontent.com/jeandsontb/NetFlix/master/public/assets/flix10.png" width="400px">
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/flix1.png" width="400px">
+  <img alt="NetFlix" title="#NetFlix" src="https://raw.githubusercontent.com/jeandsontb/NetFlix/master/public/assets/flix1.png" width="400px">
 </p>
 
 ## 🛠 Tecnologias
@@ -73,6 +73,8 @@ $ npm install
 $ sudo npm run start
 
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+
+```
 
 ## 📝 Licença
 
