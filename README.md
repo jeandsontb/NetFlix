@@ -9,7 +9,7 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/static/v1?label=Language&message=4&color=green&style=for-the-badge&logo=ghost">
 
-  <img alt="Repository size" src="https://img.shields.io/static/v1?label=Last commit&message=August&color=yellowgreen&style=for-the-badge&logo=ghost">
+  <img alt="Repository size" src="https://img.shields.io/static/v1?label=Last%20commit&message=August&color=yellowgreen&style=for-the-badge&logo=Slack">
 </p>
 
 ## 💻 Sobre o Projeto
@@ -39,9 +39,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Node.js][nodejs]
 - [React][reactjs]
-- [HTML5][html5]
-- [CSS][css]
-- [Javascript][javascript]
 
 ## 💡 Como executar o projeto
 
